@@ -9,14 +9,14 @@ Desarrollo **soluciones a problemáticas** mediante software, con un **stack cen
 
 🌱 Fuera del código, me gusta leer, ver series, jugar voleibol y videojuegos.
 
-📬 Contáctame: daniel@corderodev.com
+📬 Contáctame: daniel@melendez.dev
 
-🔗 Portafolio: [corderodev.com](https://corderodev.com)
+🔗 Portafolio: [melendezdev.dev](https://melendez.dev)
 
-💼 LinkedIn: [Daniel Cordero Meléndez (@corderodev)](https://www.linkedin.com/in/corderodev/)
+💼 LinkedIn: [Daniel Cordero Meléndez (@melendez.dev)](https://www.linkedin.com/in/melendezdev/)
 
 ## 🔥 Mis estadísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=corderodev&theme=blueberry-duo&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=melendezdev&theme=blueberry-duo&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corderodev&theme=blueberry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melendezdev&theme=blueberry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
