@@ -1,19 +1,45 @@
 ![Banner with information about me](./banner.png)
-# Desarrollador FullStack | Next.js, NestJS, React, TypeScript
+# 👋 Hey, soy Daniel
 
-Desarrollo **soluciones a problemáticas** mediante software, con un **stack centrado en JavaScript**. Resido en Antofagasta, Chile.
+Soy un **Full Stack Developer** en Chile, me gusta crear aplicaciones web modernas que combinan **escalabilidad, performance y buena experiencia de usuario**.
+Me especializo en **React + Node.js** pero me encanta explorar nuevas tecnologías y compartir lo que aprendo 🚀.
 
-👋 ¡Hola! Soy Daniel Cordero, desarrollador FullStack de Antofagasta, Chile. Me enfoco en crear soluciones eficientes y optimizar procesos a través del código. Trabajo con Next.js, NestJS, React y TypeScript, y siempre estoy aprendiendo algo nuevo para mejorar mis proyectos.
+🔗 [www.melendez.dev](https://www.melendez.dev) · [LinkedIn](https://linkedin.com/in/melendezdev)
 
-🚀 Empecé a programar en 2021 y desde entonces he desarrollado intranets, automatizado flujos de trabajo y optimizado sistemas para hacerlos más rápidos y eficientes.
+---
 
-🌱 Fuera del código, me gusta leer, ver series, jugar voleibol y videojuegos.
+## 🛠️ Stack favorito
 
-📬 Contáctame: daniel@melendez.dev
+* **Frontend:** React, Next.js, TypeScript, TanStack, Tailwind, Shadcn
+* **Backend:** Node.js, Express
+* **Data:** PostgreSQL, Supabase, MongoDB
+* **DevOps & Otros:** CI/CD, GitHub Actions, Testing (Jest, Cypress), Figma, Framer Motion
 
-🔗 Portafolio: [melendezdev.dev](https://melendez.dev)
+---
 
-💼 LinkedIn: [Daniel Cordero Meléndez (@melendez.dev)](https://www.linkedin.com/in/melendezdev/)
+## 🚀 Lo que estoy construyendo
+
+* 🏗️ Intranets modulares para empresas (clientes, ventas, documentos, reportes).
+* 📦 CRUDs interactivos con tablas dinámicas (TanStack + Shadcn).
+* 📊 Generadores de cotizaciones con PDF y cálculos en tiempo real.
+* 🌐 Sitios web rápidos, accesibles y fáciles de mantener.
+
+---
+
+## 🌱 Aprendiendo ahora
+
+* Inglés
+* Microservicios
+* Autenticación con Clerk
+* Arquitecturas multi-tenant con Supabase
+
+---
+
+## ⚡ Fun fact
+
+Cuando no estoy programando, probablemente estoy disfrutando de unas partidas o experimentando con algún side-project freelance.
+
+---
 
 ## 🔥 Mis estadísticas
 
