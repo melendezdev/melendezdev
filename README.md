@@ -1,43 +1,41 @@
 ![Banner with information about me](./banner.png)
+
 # 👋 Hey, soy Daniel
 
-Soy un **Full Stack Developer** en Chile, me gusta crear aplicaciones web modernas que combinan **escalabilidad, performance y buena experiencia de usuario**.
-Me especializo en **React + Node.js** pero me encanta explorar nuevas tecnologías y compartir lo que aprendo 🚀.
+Soy un **Software Engineer & Technical Lead** basado en Chile. Me especializo en el ecosistema **JavaScript/TypeScript**, transformando procesos operativos complejos y cuellos de botella empresariales en plataformas web rápidas, escalables y automatizadas.
 
-🔗 [www.melendez.dev](https://www.melendez.dev) · [LinkedIn](https://linkedin.com/in/melendezdev)
+🔗 [melendez.dev](https://www.melendez.dev) · [LinkedIn](https://linkedin.com/in/melendezdev) · ✉️ daniel@melendez.dev
 
 ---
 
-## 🛠️ Stack favorito
+## 🛠️ Stack Principal
 
-* **Frontend:** React, Next.js, TypeScript, TanStack, Tailwind, Shadcn
-* **Backend:** Node.js, Express
-* **Data:** PostgreSQL, Supabase, MongoDB
-* **DevOps & Otros:** CI/CD, GitHub Actions, Testing (Jest, Cypress), Figma, Framer Motion
+* **Frontend:** React, Next.js, Astro, TypeScript, Tailwind CSS, Shadcn/UI
+* **Backend:** Node.js, Express, NestJS
+* **Data & Auth:** MongoDB, PostgreSQL, Supabase, Neon, Turso, JWT, Auth.js
+* **Herramientas & DevOps:** CI/CD, GitHub Actions, Git, Testing (Jest, Cypress)
 
 ---
 
 ## 🚀 Lo que estoy construyendo
 
-* 🏗️ Intranets modulares para empresas (clientes, ventas, documentos, reportes).
-* 📦 CRUDs interactivos con tablas dinámicas (TanStack + Shadcn).
-* 📊 Generadores de cotizaciones con PDF y cálculos en tiempo real.
-* 🌐 Sitios web rápidos, accesibles y fáciles de mantener.
+* 🏗️ **Sistemas y plataformas B2B:** Intranets corporativas a medida para digitalizar logística, ventas y reportes documentales.
+* ⚡ **Arquitecturas web de alto rendimiento:** Plataformas optimizadas para SEO local y conversión automatizada de leads.
+* 💼 **Ecosistema propio:** Liderando el desarrollo tecnológico de mi propio negocio de consultoría digital.
 
 ---
 
-## 🌱 Aprendiendo ahora
+## 🌱 Explorando actualmente
 
-* Inglés
-* Microservicios
-* Autenticación con Clerk
-* Arquitecturas multi-tenant con Supabase
+* Arquitecturas multi-tenant.
+* Microservicios y optimización avanzada de flujos CI/CD.
+* Inglés técnico y de negocios.
 
 ---
 
 ## ⚡ Fun fact
 
-Cuando no estoy programando, probablemente estoy disfrutando de unas partidas o experimentando con algún side-project freelance.
+Lejos del teclado, disfruto el tiempo con mi pareja y mi perrita salchicha, Ivy. Y si me queda tiempo libre, seguro estoy metido en Baldur's Gate 3.
 
 ---
 
