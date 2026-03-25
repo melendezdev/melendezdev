@@ -10,32 +10,32 @@ Soy un **Software Engineer & Technical Lead** basado en Chile. Me especializo en
 
 ## 🛠️ Stack Principal
 
-* **Frontend:** React, Next.js, Astro, TypeScript, Tailwind CSS, Shadcn/UI
-* **Backend:** Node.js, Express, NestJS
-* **Data & Auth:** MongoDB, PostgreSQL, Supabase, Neon, Turso, JWT, Auth.js
-* **Herramientas & DevOps:** CI/CD, GitHub Actions, Git, Testing (Jest, Cypress)
+- **Frontend:** React, Next.js, Astro, TypeScript, Tailwind CSS, Shadcn/UI
+- **Backend:** Node.js, Express, NestJS
+- **Data & Auth:** MongoDB, PostgreSQL, Supabase, Neon, Turso, JWT, Auth.js
+- **Herramientas & DevOps:** CI/CD, GitHub Actions, Git, Testing (Jest, Cypress)
 
 ---
 
 ## 🚀 Lo que estoy construyendo
 
-* 🏗️ **Sistemas y plataformas B2B:** Intranets corporativas a medida para digitalizar logística, ventas y reportes documentales.
-* ⚡ **Arquitecturas web de alto rendimiento:** Plataformas optimizadas para SEO local y conversión automatizada de leads.
-* 💼 **Ecosistema propio:** Liderando el desarrollo tecnológico de mi propio negocio de consultoría digital.
+- 🏗️ **Sistemas y plataformas B2B:** Intranets corporativas a medida para digitalizar logística, ventas y reportes documentales.
+- ⚡ **Arquitecturas web de alto rendimiento:** Plataformas optimizadas para SEO local y conversión automatizada de leads.
+- 💼 **Negocio propio:** Liderando el desarrollo tecnológico de mi propio negocio de consultoría digital.
 
 ---
 
 ## 🌱 Explorando actualmente
 
-* Arquitecturas multi-tenant.
-* Microservicios y optimización avanzada de flujos CI/CD.
-* Inglés técnico y de negocios.
+- Arquitecturas multi-tenant.
+- Microservicios y optimización avanzada de flujos CI/CD.
+- Inglés técnico y de negocios.
 
 ---
 
-## ⚡ Fun fact
-
 Lejos del teclado, disfruto el tiempo con mi pareja y mi perrita salchicha, Ivy. Y si me queda tiempo libre, seguro estoy metido en Baldur's Gate 3.
+
+![Gamer Ivy](./ivy.png)
 
 ---
 
