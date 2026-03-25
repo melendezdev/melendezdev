@@ -2,7 +2,7 @@
 
 # 👋 Hey, soy Daniel
 
-Soy un **Software Engineer & Technical Lead** basado en Chile. Me especializo en el ecosistema **JavaScript/TypeScript**, transformando procesos operativos complejos y cuellos de botella empresariales en plataformas web rápidas, escalables y automatizadas.
+Soy un **Software Engineer & Technical Lead** en Chile. Me especializo en el ecosistema **JavaScript/TypeScript**, transformando procesos operativos complejos y cuellos de botella empresariales en plataformas web rápidas, escalables y automatizadas.
 
 🔗 [melendez.dev](https://www.melendez.dev) · [LinkedIn](https://linkedin.com/in/melendezdev) · ✉️ daniel@melendez.dev
 
@@ -20,7 +20,7 @@ Soy un **Software Engineer & Technical Lead** basado en Chile. Me especializo en
 ## 🚀 Lo que estoy construyendo
 
 - 🏗️ **Sistemas y plataformas B2B:** Intranets corporativas a medida para digitalizar logística, ventas y reportes documentales.
-- ⚡ **Arquitecturas web de alto rendimiento:** Plataformas optimizadas para SEO local y conversión automatizada de leads.
+- ⚡ **Arquitecturas web:** Plataformas optimizadas para SEO local y conversión automatizada de leads.
 - 💼 **Negocio propio:** Liderando el desarrollo tecnológico de mi propio negocio de consultoría digital.
 
 ---
