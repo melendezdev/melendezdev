@@ -11,7 +11,7 @@ Soy **Fullstack Software Engineer & Founder de Oxen Digital**, en Chile. Me espe
 ## 🛠️ Stack Principal
 
 - **Frontend:** React, Next.js, Astro, TypeScript, Tailwind CSS, Shadcn/UI
-- **Backend:** Node.js, Express, NestJS
+- **Backend:** Node.js, Express
 - **Data & Auth:** MongoDB, PostgreSQL, Supabase, Neon, Turso, JWT, Auth.js
 - **Herramientas & DevOps:** CI/CD, GitHub Actions, Git, Testing (Jest, Cypress)
 
