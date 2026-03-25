@@ -2,7 +2,7 @@
 
 # 👋 Hey, soy Daniel
 
-Soy un **Software Engineer & Technical Lead** en Chile. Me especializo en el ecosistema **JavaScript/TypeScript**, transformando procesos operativos complejos y cuellos de botella empresariales en plataformas web rápidas, escalables y automatizadas.
+Soy **Fullstack Software Engineer & Founder de Oxen Digital**, en Chile. Me especializo en el ecosistema **JavaScript/TypeScript**, transformando procesos operativos complejos y cuellos de botella empresariales en plataformas web rápidas, escalables y automatizadas.
 
 🔗 [melendez.dev](https://www.melendez.dev) · [LinkedIn](https://linkedin.com/in/melendezdev) · ✉️ daniel@melendez.dev
 
