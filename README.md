@@ -33,7 +33,7 @@ Soy **Fullstack Software Engineer & Founder de Oxen Digital**, en Chile. Me espe
 
 ---
 
-Lejos del teclado, disfruto el tiempo con mi pareja y mi perrita salchicha, Ivy. Y si me queda tiempo libre, seguro estoy metido en Baldur's Gate 3.
+Cuando me desconecto, mi prioridad es mi familia y mi perrita salchicha, Ivy. Pero si me sobra algo de tiempo, seguro me encuentras jugando a Baldur's Gate 3.
 
 ![Gamer Ivy](./ivy.png)
 
