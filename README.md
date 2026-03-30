@@ -36,11 +36,3 @@ Soy **Fullstack Software Engineer & Founder de Oxen Digital**, en Chile. Me espe
 Cuando me desconecto, mi prioridad es mi familia y mi perrita salchicha, Ivy. Pero si me sobra algo de tiempo, seguro me encuentras jugando a Baldur's Gate 3.
 
 ![Gamer Ivy](./ivy.png)
-
----
-
-## 🔥 Mis estadísticas
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=melendezdev&theme=blueberry-duo&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melendezdev&theme=blueberry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
